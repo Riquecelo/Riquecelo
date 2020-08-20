@@ -5,17 +5,17 @@ Pretendo iniciar nessa jornada como desenvolvedor Front End 🚀
 
 Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
-##Estudando no momento as seguintes técnologias:##
+## Estudando no momento as seguintes técnologias: ##
 
 ![html e css](https://github.com/Riquecelo/Riquecelo/blob/master/HtmlCss.jpg)
 
-##Próximo passo:##
+## Próximo passo: ##
 
 ![java script](https://github.com/Riquecelo/Riquecelo/blob/master/JavaScript-logo.png) ![PHP](https://github.com/Riquecelo/Riquecelo/blob/master/Mascot-PHP-Logo-1.jpg)
 
 #
 Contatos:
 
-![email] (https://github.com/Riquecelo/Riquecelo/blob/master/icons8-microsoft-outlook-48.png) marcelo.has@hotmail.com 
+![email](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-microsoft-outlook-48.png)  marcelo.has@hotmail.com 
 
-![linkedin] (https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png) www.linkedin.com/in/marcelo-santos-26832a180
+![linkedin](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png)  www.linkedin.com/in/marcelo-santos-26832a180
