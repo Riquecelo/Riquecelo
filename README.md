@@ -7,6 +7,6 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
 Contatos:
 
-📧 marcelo.has@hotmail.com
+email: marcelo.has@hotmail.com 
 
 linkedin: www.linkedin.com/in/marcelo-santos-26832a180
