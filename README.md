@@ -5,7 +5,7 @@ Pretendo iniciar nessa jornada como desenvolvedor Front End 🚀
 
 Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
-## Estudando no momento as seguintes técnologias: ##
+## Estudando no momento as seguintes tecnologias: ##
 
 ![html e css](https://github.com/Riquecelo/Riquecelo/blob/master/HtmlCss.jpg)
 
