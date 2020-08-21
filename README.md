@@ -1,4 +1,4 @@
-### Olá Acredito que com desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta👋
+### Olá👋 Acredito que com desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 # Me chamo Marcelo # 
 
 Pretendo iniciar nessa jornada como desenvolvedor Front End 🚀
