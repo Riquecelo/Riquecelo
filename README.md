@@ -16,7 +16,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 #
 Contatos:
 
-![email](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-microsoft-outlook-48.png) 
+![mailto](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-microsoft-outlook-48.png) 
 <marcelo.has@hotmail.com>
 
 
