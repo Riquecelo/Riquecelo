@@ -8,11 +8,11 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
 ## Estudando no momento as seguintes tecnologias: ##
 
-![html e css](https://github.com/Riquecelo/Riquecelo/blob/master/HtmlCss.jpg)
+![html e css](https://github.com/Riquecelo/Riquecelo/blob/master/HtmlCss.jpg)  ![java script](https://github.com/Riquecelo/Riquecelo/blob/master/JavaScript-logo.png)
 
 ## Próximo passo: ##
 
-![java script](https://github.com/Riquecelo/Riquecelo/blob/master/JavaScript-logo.png) ![PHP](https://github.com/Riquecelo/Riquecelo/blob/master/Mascot-PHP-Logo-1.jpg)
+ ![PHP](https://github.com/Riquecelo/Riquecelo/blob/master/Mascot-PHP-Logo-1.jpg)
 
 #
 Contatos:
