@@ -12,7 +12,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
 ## Próximo passo: ##
 
- ![PHP](https://github.com/Riquecelo/Riquecelo/blob/master/Mascot-PHP-Logo-1.jpg)
+
 
 #
 Contatos:
