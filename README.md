@@ -29,6 +29,7 @@ Contatos:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" heigth='100' width='100'/>
 <!--[linkedin](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png)--> 
 </a>
+
  ![Snake animation](https://github.com/Riquecelo/blob/output/github-contribution-grid-snake.svg)
 
 
