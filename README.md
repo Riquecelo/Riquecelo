@@ -19,13 +19,10 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/>
 
 #
-Contatos:
+Contato:
 <div>
-<a href="mailto:marcelo.has@hotmail.com" target="_blank">
- <img src="https://github.com/Riquecelo/Riquecelo/blob/master/icons8-microsoft-outlook-48.png" heigth='60' width='60'>
-</a>        
-</br>
-<a href="https://www.linkedin.com/in/marcelo-santos-26832a180" target="_blank">
+  
+<a href="https://www.linkedin.com/in/marcelo-santos-26832a180" target="_blank" style: padding-left='100'>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" heigth='100' width='100'/>
 <!--[linkedin](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png)--> 
 </a>
