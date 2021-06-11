@@ -7,12 +7,14 @@ Pretendo iniciar nessa jornada como desenvolvedor Front End 🚀
 Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
 ## Estudando no momento as seguintes tecnologias: ##
+<!-- in your header -->
 
-![html e css](https://github.com/Riquecelo/Riquecelo/blob/master/HtmlCss.jpg)  ![java script](https://github.com/Riquecelo/Riquecelo/blob/master/JavaScript-logo.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth='100' width='100'/>
+
+
 
 ## Próximo passo: ##
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/>
 
 #
 Contatos:
