@@ -20,7 +20,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 
 #
 Contatos:
-
+<div>
 <a href="mailto:marcelo.has@hotmail.com" target="_blank">
  <img src="https://github.com/Riquecelo/Riquecelo/blob/master/icons8-microsoft-outlook-48.png" heigth='60' width='60'>
 </a>        
@@ -30,6 +30,6 @@ Contatos:
 <!--[linkedin](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png)--> 
 </a>
 
- ![Snake animation](https://github.com/Riquecelo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Riquecelo/Riquecelo/blob/output/github-contribution-grid-snake.svg)
 
-
+</div>
