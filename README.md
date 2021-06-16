@@ -2,9 +2,9 @@
 #### Acredito que com desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 # Me chamo Marcelo # 
 
-Pretendo iniciar nessa jornada como desenvolvedor Front End 🚀
+Pretendo iniciar nessa jornada como desenvolvedor Front End  :dart:
 
-Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
+Meu objetivo é me tornar um desenvolvedor Full Stack 🚀
 
 ## Estudando no momento as seguintes tecnologias: ##
 <!-- in your header -->
