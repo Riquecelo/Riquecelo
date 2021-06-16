@@ -9,14 +9,14 @@ Meu objetivo é me tornar um desenvolvedor Full Stack:dart:
 ## Estudando no momento as seguintes tecnologias: ##
 <!-- in your header -->
 
-<img alt="icone HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" heigth='100' width='100'/> <img  alt="icone CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" heigth='100' width='100'/> <img alt="icone JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth='100' width='100'/> <img alt="icone Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" heigth='100' width='100'/>
+<img alt="icone HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" heigth='100' width='100'/> <img  alt="icone CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" heigth='100' width='100'/> <img alt="icone JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth='100' width='100'/> <img alt="icone Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" heigth='100' width='100'/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ## Próximo passo: ##
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/>
 
 #
 Contato:
