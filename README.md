@@ -16,7 +16,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack 🚀
 
 
 ## Próximo passo: ##
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/>
 
 #
 Contato:
