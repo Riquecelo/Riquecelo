@@ -1,5 +1,5 @@
 ###  <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/> Olá!
-#### Acredito que com desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
+#### Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 # Me chamo Marcelo # 
 
 Pretendo iniciar nessa jornada como desenvolvedor Front End  :dart:
