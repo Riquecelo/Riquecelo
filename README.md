@@ -1,4 +1,4 @@
-###  <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/> Olá!
+#   <p> Olá! <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/><p/>
 #### Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 # Me chamo Marcelo # 
 
