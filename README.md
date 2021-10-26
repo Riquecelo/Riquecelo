@@ -1,4 +1,4 @@
-### Olá👋 
+###  <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/> Olá!
 #### Acredito que com desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 # Me chamo Marcelo # 
 
@@ -20,8 +20,8 @@ Meu objetivo é me tornar um desenvolvedor Full Stack 🚀
 ## Próximo passo: ##
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth='150' width='150'/>
 
-#
-Contato:
+# 
+### Contato:
 <div>
   
 <a href="https://www.linkedin.com/in/marcelo-santos-26832a180" target="_blank" style: padding-left='100'>
