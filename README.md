@@ -4,7 +4,7 @@
 
 Pretendo iniciar nessa jornada como desenvolvedor Front End  :dart:
 
-Meu objetivo é me tornar um desenvolvedor Full Stack 🚀
+Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr 🚀
 
 ## Estudando no momento as seguintes tecnologias: ##
 <!-- in your header -->
