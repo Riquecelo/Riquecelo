@@ -13,7 +13,13 @@ Meu objetivo Ã© conseguir o primeiro emprego como desenvolvedor Front End jr ðŸš
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=)
+
+
+
+
+
 
 
 
@@ -27,7 +33,7 @@ Meu objetivo Ã© conseguir o primeiro emprego como desenvolvedor Front End jr ðŸš
 <a href="https://www.linkedin.com/in/marcelo-santos-26832a180" target="_blank" style: padding-left='100'>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" heigth='100' width='100'/>
 <!--[linkedin](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png)--> 
-</a>
+</a> 
 
  ![Snake animation](https://github.com/Riquecelo/Riquecelo/blob/output/github-contribution-grid-snake.svg)
 
