@@ -2,9 +2,9 @@
 #### Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 # Me chamo Marcelo # 
 
-Pretendo iniciar nessa jornada como desenvolvedor Front End  :dart:
+Pretendo iniciar nessa jornada como desenvolvedor Front End  🚀
 
-Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr 🚀
+Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :dart:
 
 ## Estudando no momento as seguintes tecnologias: ##
 <!-- in your header -->
@@ -13,12 +13,7 @@ Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr �
 
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/Riquecelo/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=)
-
-
-
-
 
 
 
