@@ -14,7 +14,7 @@ Meu objetivo Ã© conseguir o primeiro emprego como desenvolvedor Front End jr ðŸš
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/Riquecelo/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=)
 
 
 
