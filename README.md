@@ -22,13 +22,15 @@ Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :da
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth='150' width='150'/>
 
 # 
-### Contato:
+### Contato:   
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 <div>
+  <a href="https://www.linkedin.com/in/marcelosantos11" target="_blank">
+   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+  </a> 
   
-<a href="https://www.linkedin.com/in/marcelo-santos-26832a180" target="_blank" style: padding-left='100'>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" heigth='100' width='100'/>
-<!--[linkedin](https://github.com/Riquecelo/Riquecelo/blob/master/icons8-linkedin-64.png)--> 
-</a> 
 
  ![Snake animation](https://github.com/Riquecelo/Riquecelo/blob/output/github-contribution-grid-snake.svg)
 
