@@ -28,8 +28,12 @@ Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :da
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
 
+
 <div>
 
  ![Snake animation](https://github.com/Riquecelo/Riquecelo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Riquecelo&theme=github-light)](https://github.com/Riquecelo/github-readme-activity-graph)
+
