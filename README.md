@@ -23,8 +23,8 @@ Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :da
 
 # 
 ### Contato:   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelosantos11)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelosantos11)<br>
+<a href="https://www.linkedin.com/in/marcelosantos11"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 <div>
   
