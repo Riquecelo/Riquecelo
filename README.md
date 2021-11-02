@@ -1,7 +1,8 @@
-#   <p> Olá! <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/><p/>
-#### Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
-# Me chamo Marcelo # 
+#   <p> Olá! <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=) <p/>
 
+### Me chamo Marcelo 
+Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
+#
 Pretendo iniciar nessa jornada como desenvolvedor Front End  🚀
 
 Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :dart:
@@ -13,8 +14,7 @@ Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :da
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/Riquecelo/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/Riquecelo/github-readme-stats) 
 
 
 
