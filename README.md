@@ -1,4 +1,4 @@
-#   <p> Olá! <img src="https://media1.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif"  heigth='100' width='200'/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=) <p/>
+#   <p> Olá! <img src="https://c.tenor.com/FfkOnaJiADQAAAAC/the-mandalorian-luke-skywalker.gif"   width='150'/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=) <p/>
 
 ### Me chamo Marcelo 
 Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
