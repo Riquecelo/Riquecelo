@@ -10,7 +10,10 @@ Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :da
 ## Estudando no momento as seguintes tecnologias: ##
 <!-- in your header -->
 
-<img alt="icone HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" heigth='100' width='100'/> <img  alt="icone CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" heigth='100' width='100'/> <img alt="icone JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth='100' width='100'/> <img alt="icone Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" heigth='100' width='100'/> 
+<img alt="icone HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" heigth='100' width='100'/> <img  alt="icone CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" heigth='100' width='100'/> <img alt="icone JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" heigth='100' width='100'/>
+          
+         
+          
 
 ## Acesse meu portfólio
 [![](https://img.shields.io/badge/ACESSAR%20-site-blue?style=for-the-badge&logo=googlechrome)](https://riquecelo.github.io/Portfolio/)
