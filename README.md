@@ -3,9 +3,9 @@
 ### Me chamo Marcelo 
 Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 #
-Pretendo iniciar nessa jornada como desenvolvedor Front End  🚀
+Iniciante nessa jornada como desenvolvedor Front End Jr  🚀
 
-Meu objetivo é conseguir o primeiro emprego como desenvolvedor Front End jr :dart:
+Meu objetivo é aprimorar meu conhecimento como desenvolvedor Front End :dart:
 
 ## Estudando no momento as seguintes tecnologias: ##
 <!-- in your header -->
