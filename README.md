@@ -46,5 +46,3 @@ Meu objetivo é aprimorar meu conhecimento como desenvolvedor Front End :dart:
 
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Riquecelo&theme=github-light)](https://github.com/Riquecelo/github-readme-activity-graph)
-
