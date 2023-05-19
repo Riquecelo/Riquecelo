@@ -5,11 +5,11 @@ Acredito que com o desenvolvimento web posso mudar a minha vida e também das pe
 #
 Iniciante nessa jornada como desenvolvedor Front End 🚀
 
-Já trabalhei como desenvolvedor Front End jr em uma agência de ecommerce especializada e Vtex.
+Já trabalhei como desenvolvedor Front End jr em uma agência de ecommerce especializada em Vtex.
 
 Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor Front End :dart:
 
-## Tecnologias que utilizei: ##
+## Tecnologias que utilizei profissionalmente : ##
 <!-- in your header -->
 
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&color=e0e0e0" width='102'/> <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&color=e0e0e0&logoColor=1572B6" width='88'/>
