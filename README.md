@@ -17,7 +17,7 @@ Meu objetivo é aprimorar meu conhecimento como desenvolvedor Front End :dart:
 <img src="https://img.shields.io/badge/-React-Gray?style=for-the-badge&logo=react&color=e0e0e0" width='100'/>
 <img src="https://img.shields.io/badge/-Nodejs-Gray?style=for-the-badge&logo=nodedotjs&color=e0e0e0" width='110'/>
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&color=e0e0e0" width='78'/>
-<img src="https://img.shields.io/badge/-Vtex-Gray?style=for-the-badge&logo=vtex&color=e0e0e0&logoColor=ED125F" width='78'/>
+<img src="https://img.shields.io/badge/-Vtex-Gray?style=for-the-badge&logo=vtex&color=e0e0e0&logoColor=ED125F" width='89'/>
 
                
 
