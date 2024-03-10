@@ -5,7 +5,7 @@ Acredito que com o desenvolvimento web posso mudar a minha vida e também das pe
 #
 Iniciante nessa jornada como desenvolvedor Front End 🚀
 
-Já trabalhei como desenvolvedor Front End jr em uma agência de ecommerce especializada em Vtex.
+Já trabalhei como Front End jr em uma agência de ecommerce especializada em Vtex.
 
 Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor Front End :dart:
 
