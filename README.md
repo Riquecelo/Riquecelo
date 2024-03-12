@@ -3,7 +3,7 @@
 ### Me chamo Marcelo 
 Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 #
-Iniciante nessa jornada como desenvolvedor Front End 🚀
+Caminhando nessa jornada como desenvolvedor Front End 🚀
 
 Já trabalhei como Front End jr em uma agência de ecommerce especializada em Vtex.
 
