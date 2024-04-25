@@ -32,7 +32,7 @@ Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor F
 
 
 ## Próximo passo: ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" heigth='100' width='100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth='150' width='150'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth='100' width='100'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth='150' width='150'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth='100' width='100'/>
 
 # 
 ### Contato:   
