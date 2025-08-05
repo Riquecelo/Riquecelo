@@ -3,9 +3,10 @@
 ### Me chamo Marcelo 
 Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
 #
-Caminhando nessa jornada como desenvolvedor Front End 🚀
 
-Já trabalhei como Front End jr em uma agência de ecommerce especializada em Vtex.
+Já trabalhei como Front End jr em uma agência de ecommerce especializada em Vtex. 🚀
+
+Atualmente trabalhando como Desenvolvedor Full Stack JR na Veste.SA. 🚀
 
 Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor Front End :dart:
 
@@ -32,7 +33,8 @@ Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor F
 
 
 ## Próximo passo: ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth='150' width='150'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth='100' width='100'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth='100' width='100'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" heigth='100' width='100'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigth='150' width='150'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  heigth='100' width='100' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" heigth='100' width='100' />
+          
 
 # 
 ### Contato:   
