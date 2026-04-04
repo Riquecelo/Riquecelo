@@ -1,12 +1,10 @@
 #   <p> Olá! <img src="https://c.tenor.com/FfkOnaJiADQAAAAC/the-mandalorian-luke-skywalker.gif"   width='100'/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=&hide=issues) <p/>
 
 ### Me chamo Marcelo 
-Acredito que com o desenvolvimento web posso mudar a minha vida e também das pessoas a minha volta!
+O desenvolvimento web mudou a minha vida e também pode mudar das pessoas a minha volta!
 #
 
-Já trabalhei como Front End jr em uma agência de ecommerce especializada em Vtex. 🚀
-
-Atualmente trabalhando como Desenvolvedor Full Stack JR na Veste.SA. 🚀
+Trabalhando como Front End desde 2022 com ecommerce especializado em Vtex. 🚀
 
 Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor Front End :dart:
 
