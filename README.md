@@ -4,7 +4,7 @@
 O desenvolvimento web mudou a minha vida e também pode mudar das pessoas a minha volta!
 #
 
-Trabalhando como Front End desde 2022 com ecommerce especializado em Vtex. 🚀
+Trabalhando como desenvolvedor Front End desde 2022 com ecommerce em lojas Vtex. 🚀
 
 Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor Front End :dart:
 
