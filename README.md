@@ -11,7 +11,8 @@ Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor F
 ## Tecnologias que utilizei profissionalmente : ##
 <!-- in your header -->
 
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&color=e0e0e0" width='102'/> <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&color=e0e0e0&logoColor=1572B6" width='88'/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&color=e0e0e0" width='102'/> 
+<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&color=e0e0e0&logoColor=1572B6" width='88'/>
 <img src="https://img.shields.io/badge/-SASS-Gray?style=for-the-badge&logo=sass&color=e0e0e0" width='90'/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&color=e0e0e0" width='144'/>
 <img src="https://img.shields.io/badge/-Jquery-Gray?style=for-the-badge&logo=jquery&color=e0e0e0&logoColor=0769AD" width='110'/>
