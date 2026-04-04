@@ -1,4 +1,4 @@
-#   <p> Olá! <img src="https://c.tenor.com/FfkOnaJiADQAAAAC/the-mandalorian-luke-skywalker.gif"   width='100'/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquecelo&show_icons=true&theme=&hide=issues) <p/>
+#   <p> Olá! <img src="https://c.tenor.com/FfkOnaJiADQAAAAC/the-mandalorian-luke-skywalker.gif"   width='100'/>  <p/>
 
 ### Me chamo Marcelo 
 O desenvolvimento web mudou a minha vida e também pode mudar das pessoas a minha volta!
@@ -25,8 +25,7 @@ Meu objetivo é aprimorar meus conhecimentos e experiência como desenvolvedor F
 ## Acesse meu portfólio
 [![](https://img.shields.io/badge/ACESSAR%20-site-blue?style=for-the-badge&logo=googlechrome)](https://riquecelo.github.io/Portfolio/)
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquecelo)](https://github.com/Riquecelo/github-readme-stats) 
+
 
 
 
